@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MattWynn
 - 👀 I’m interested in geometry, snowboarding, and spiritual alchemy.
-- 🌱 I’m currently learning a little bit of python.  I work for Autodesk using C++ and Fortran for computer aided manufacturing (CAM).
-- 💞️ I’m looking to collaborate on the Autodesk Fusion ecosystem.
+- 🌱 I work for Moore Nanotechnology Systems (Nanotech) using C# for computer aided manufacturing (CAM).  I'm very experienced in C++ and Fortran.  A little bit of experience in Python, Java, etc., etc.
+- 💞️ I had been looking to collaborate on the Autodesk Fusion ecosystem, but right now I'm focused on Nanotech and several non-computer topics.
 - 📫 How to reach me: I occasionally read email sent to shralpstickers@gmail.com
 
 <!---
